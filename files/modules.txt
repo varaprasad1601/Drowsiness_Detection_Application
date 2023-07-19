@@ -1,0 +1,7 @@
+pillow
+twilio - 3.239mb
+numpy
+opencv-python
+pyaudio - 164kb
+keras - 1.7mb
+tensorflow - 364.5mb
